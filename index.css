@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 8px;
+    background-color: #ffe97e;
+}
+
+#landing {
+    padding: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+.card {
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.card-img {
+    height: 300px;
+    width: 300px;
+}
+
+footer {
+    padding: 8px;
+    background-color: #ffaaac;
+    text-align: center;
+}
